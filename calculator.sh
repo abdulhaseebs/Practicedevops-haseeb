@@ -1,5 +1,5 @@
 #!/bin/bash
-#Addition function
+#Addition functio onlyn
 x=1+2
 
 <<<<<<< HEAD
